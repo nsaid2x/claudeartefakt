@@ -1,0 +1,12 @@
+{
+  "ENR": "ENR.DE",
+  "MU": "MU",
+  "BAYN": "BAYN.DE",
+  "DWS": "DWS.DE",
+  "CSGP": "CSGP",
+  "NASDAQ": "^IXIC",
+  "SP500": "^GSPC",
+  "ADS": "ADS.DE",
+  "CVS": "CVS",
+  "RR": "RRU.DE"
+}
